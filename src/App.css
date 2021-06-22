@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+h1{
+  margin: 0 auto;
+  display: flex;
+  
+}
 
 .App-logo {
   height: 40vmin;
